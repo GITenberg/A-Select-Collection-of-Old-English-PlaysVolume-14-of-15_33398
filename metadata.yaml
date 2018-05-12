@@ -1,0 +1,41 @@
+_repo: A-Select-Collection-of-Old-English-PlaysVolume-14-of-15_33398
+_version: 0.1.0
+contributor:
+  compiler:
+    agent_name: Dodsley, Robert
+    aliases:
+    - Dodsley, R. (Robert)
+    - Saddi, Nathan ben
+    birthdate: 1703
+    deathdate: 1764
+    gutenberg_agent_id: '26524'
+    url: http://www.gutenberg.org/2009/agents/26524
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Dodsley
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Hazlitt, William Carew
+    alias: Hazlitt, W. Carew (William Carew)
+    birthdate: 1834
+    deathdate: 1913
+    gutenberg_agent_id: '4300'
+    url: http://www.gutenberg.org/2009/agents/4300
+    wikipedia: http://en.wikipedia.org/wiki/William_Carew_Hazlitt
+description: ''
+gutenberg_issued: '2010-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33398'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English drama'
+- !lcc 'PR'
+tableOfContents: The rebellion -- Lust's dominion; or, The lascivious queen -- Andromana;
+  or, The merchant's wife -- Lady Alimony -- The parson's wedding.
+title: A Select Collection of Old English Plays, Volume 14
+url: http://www.gutenberg.org/ebooks/33398
